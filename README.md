@@ -189,6 +189,25 @@ This system covers student reviews of Computer Science professors at the Univers
 
 **Final chunk count:** 51 chunks across 10 documents
 
+## Sample Chunks
+
+**Chunk 1 — Source: mylavarapu_goutam.txt**
+Dr. Mylavarapu is an intelligent professor who is elite at teaching Data Structures. You are going to learn a lot from this class, but be prepared to work and really focus. Data Structures is not a walk in the park and if you want to learn, you will from this course.
+
+**Chunk 2 — Source: hong_sung.txt**
+The course expectations are always clear. No tests and typically does not meet at every lecture time, but he is available online at all times. This course consisted entirely of self-guided projects made up of a combination of programming and hardware with required creative additions.
+
+**Chunk 3 — Source: bihn_michael.txt**
+He doesn't understand the course material himself, so expect to teach yourself from the textbook or YouTube. Grading takes 3+ weeks. Office hours he prolongs meetings by sharing stories and figuring out material himself before helping you.
+
+**Chunk 4 — Source: park_myung_ah.txt**
+She assigns a $69 zybooks textbook required to pass filled with busywork. She makes simple concepts difficult and is very unorganized. Her tests are way harder than they need to be. Class average was below 60% and she blamed the students.
+
+**Chunk 5 — Source: qian_gang.txt**
+Dr. Qian is very caring and nice. Whenever you have questions he will try his best to help. He explains a lot in lectures so you need to study hard. The project is a bit hard but exams are not very difficult and he grades easy as long as you show effort.
+
+
+
 ## Embedding Model
 
 **Model used:** all-MiniLM-L6-v2 via sentence-transformers (runs locally, no API key required)
