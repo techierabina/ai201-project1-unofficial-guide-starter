@@ -1,0 +1,21 @@
+Professor: Mike Bockus
+Course: CMSC1513, CMSC3143, CMS3413
+
+Review 1:
+Professor Bockus is a great instructor — clear, approachable, and genuinely cares about his students. His lectures are engaging and I highly recommend his class.
+Grade: A | Would Take Again: Yes
+
+Review 2:
+He was a really nice person but didn't know how to teach. He only taught off PowerPoint slides. If you already know C++ you'll do good, but if you took the class to learn you won't learn much. Everything I had to teach myself.
+Grade: Audit
+
+Review 3:
+He's super nice.
+Grade: A | Would Take Again: Yes
+
+Review 4:
+Makes class fun and entertaining.
+Grade: C | Would Take Again: Yes
+
+Review 5:
+Not great at explaining how to implement projects. Tasks from lecture videos are completely different from projects making it harder to understand. Expects you to write a whole web application with no sources. Not worth the stress.

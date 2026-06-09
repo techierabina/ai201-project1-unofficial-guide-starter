@@ -1,0 +1,27 @@
+Professor: Hong Sung
+Course: CMSC4313
+
+Review 1:
+The course expectations are always clear. No tests and typically does not meet at every lecture time, 
+but he is available online at all times. This course consisted entirely of self-guided projects made up
+of a combination of programming and hardware with required creative additions for every assignment.
+
+
+Review 2:
+I think he is awesome, but his method of relying on lecture videos can be off putting. I personally enjoy 
+learning at my own pace and basically only having to worry about the projects. His grading based on 
+accuracy to his lecture code for the lessons was annoying, but once I got used to it wasn't really that bad. I enjoyed having no tests.
+
+Review 3:
+In terms of grading very easy A+, all assignments are copy code exactly from videos he gives. Projects are
+ the other grade where you need to apply assignment knowledge with your own idea. Very easy class just don't get lazy.
+
+Review 4:
+I dont know whats the hype about him. He creates videos and expects students to know the
+ subject. There are lesson plans and each lesson contains 20-30 videos of his boring monotone voice. 
+ He does not seem to care about students who are struggling.
+
+Review 5:
+This professor is not so bad, but he doesn't know how to teach. You must watch hundreds
+of lecture videos and copy line by line. You will waste your money going to this class,
+just stick to Youtube for OOP design.
