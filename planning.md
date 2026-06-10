@@ -40,7 +40,7 @@ My domain is student reviews of Computer Science professors at the University of
 
 **Overlap:** 50 characters
 
-**Reasoning:** My documents are short student reviews, typically 2-4 sentences each. A 300 character chunk is large enough to capture one complete thought or opinion from a review without merging multiple unrelated opinions together. The 50 character overlap ensures that if a key opinion spans a chunk boundary — for example a student describing both exam difficulty and grading in the same sentence — both chunks will contain enough context to be retrievable. Chunks smaller than 300 characters risk cutting individual sentences in half, while larger chunks would merge different students' opinions and dilute the semantic signal for retrieval.
+**Reasoning:** My documents are short student reviews, typically 2-4 sentences each. A 300 character chunk is large enough to capture one complete thought or opinion from a review without merging multiple unrelated opinions together. The 50 character overlap ensures that if a key opinion spans a chunk boundary for example a student describing both exam difficulty and grading in the same sentence both chunks will contain enough context to be retrievable. Chunks smaller than 300 characters risk cutting individual sentences in half, while larger chunks would merge different students' opinions and dilute the samantic signal for retrieval.
 
 ---
 
@@ -68,7 +68,7 @@ My domain is student reviews of Computer Science professors at the University of
 
 ## Anticipated Challenges
 
-1. **Chunk boundary splitting:** Since reviews are short and opinionated, a 300 character chunk might cut a review mid-sentence, separating the opinion from its context. For example "His exams are brutal —" might land in one chunk while "— but fair if you study his lectures" lands in the next. The 50 character overlap helps but may not fully solve this.
+1. **Chunk boundary splitting:** Since reviews are short and opinionated, a 300 character chunk might cut a review mid-sentence, separating the opinion from its context. For example "His exams are brutal " might land in one chunk while " but fair if you study his lectures" lands in the next. The 50 character overlap helps but may not fully solve this.
 
 2. **Attribution accuracy:** Multiple professors have similar complaints (monotone lectures, hard tests, unresponsive to emails). The retrieval system might pull chunks about the wrong professor if the professor's name doesn't appear in that specific chunk. This could cause the LLM to attribute one professor's behavior to another.
 
@@ -100,8 +100,3 @@ I will give Claude my Retrieval Approach section and Architecture diagram and as
 **Milestone 5 — Generation and interface:**
 I will give Claude my full planning.md and ask it to implement a generation function that passes retrieved chunks to Groq's llama-3.3-70b-versatile with a grounding prompt that forces answers from retrieved context only, plus a Gradio UI with a question input and answer/sources output. I will verify by testing a question my documents don't cover and confirming the system refuses to answer rather than hallucinating.
 
-**Milestone 3 — Ingestion and chunking:**
-
-**Milestone 4 — Embedding and retrieval:**
-
-**Milestone 5 — Generation and interface:**
